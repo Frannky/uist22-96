@@ -1,0 +1,1 @@
+This file contains the Stan code fitting the movement time data with pooled, individual, and hierarchical models.
